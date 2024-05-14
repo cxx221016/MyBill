@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Copyright",
+    "pages/addBalance",
+    "pages/BillInfoPage",
+    "pages/BillAggPage",
+    "pages/tmp"
+  ]
+}
